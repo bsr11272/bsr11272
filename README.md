@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sai revanth reddy boda](https://www.linkedin.com/in/boda-sai-revanth-reddy-532a7816a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai revanth reddy boda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/boda-sai-revanth-reddy-532a7816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai revanth reddy boda" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_revanth_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_revanth_reddy" height="30" width="40" /></a>
 </p>
 
